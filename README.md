@@ -1,11 +1,15 @@
 # IAT312-Unity-Roglike-Game
 Each members’ role in team
 Cynthia (Yuqing) Pan          	- Audio & Graphics
+
 Tianyi Shen                          	- Audio & Graphics 
+
 Teng Pin (Eric) Pan             	- Programming
+
 Pengyu Li                             	- Programming
-Main Part: The Revised Game Design
-        	Player description (No adjustments made)
+
+Main Part: 
+The Revised Game DesignPlayer description (No adjustments made)
 Design Goal (Aesthetic) based on motivation and demographic variables
 Target Audience
 Players who are classified as Survivor according to the BrainHex gamer type. 
